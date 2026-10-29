@@ -2,7 +2,7 @@
 <h3 align="center">Information Technology Student | Aspiring Full-Stack & Mobile Developer</h3>
 
 <p align="center">
-  Saya adalah mahasiswa Teknologi Informasi di UIN Ar-Raniry Banda Aceh. Saya memiliki ketertarikan mendalam pada pengembangan aplikasi lintas platform, analisis data, dan eksplorasi lingkungan sistem operasi.
+  I'm an Information Technology student at UIN Ar-Raniry Banda Aceh. I have a deep passion for cross-platform application development, UI/UX design, and exploring diverse operating system environments. 
 </p>
 
 <p align="center">
@@ -37,6 +37,23 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+**UI/UX Design:**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+  <img src="https://img.shields.io/badge/Relume-000000?style=for-the-badge&logo=abstract&logoColor=white" alt="Relume" />
+</p>
+
+**AI & LLM Assistants:**
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/DeepSeek-0D66C2?style=for-the-badge" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
+  <img src="https://img.shields.io/badge/Qwen-4B4B4B?style=for-the-badge" alt="Qwen" />
+</p>
+
 **Environment & Tools:**
 <p>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
@@ -48,18 +65,30 @@
 
 ---
 
-### 🚀 Current Projects
+### 📁 Featured & Practice Projects
 
-- 📱 **DompetKilat:** Mengembangkan aplikasi pelacakan keuangan pribadi lintas platform menggunakan **Flutter** dan **Hive** database.
-- 🅿️ **ParkGo:** Merancang solusi manajemen parkir digital terintegrasi (aplikasi mobile & dashboard web).
+| Project | Description | Tech Stack / Tools |
+| :--- | :--- | :--- |
+| 📱 **DompetKilat** | Cross-platform personal finance tracking application. | Flutter, Dart, Hive |
+| 🅿️ **ParkGo** | Digital parking management solution (Mobile App & Web Dashboard). | Figma, Flutter, PHP |
+| 🎨 **UI/UX App Redesign** | Wireframing, prototyping, and modern interface design layouts. | Figma, Relume |
+| 🗄️ **Campus DB App** | Basic backend development and database management practice. | Java, MySQL |
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mpashaalv&show_icons=true&theme=radical&hide_border=true" alt="M. Pasha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mpashaalv&show_icons=true&theme=tokyonight&hide_border=true" alt="M. Pasha's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpashaalv&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpashaalv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
+### ✨ Personal Quote
+> *"Designing the future—one line of code and one pixel at a time."* 🧠
+
+### 🎯 Fun Fact
+> When I'm not busy configuring my dual-boot Linux setup, I'm probably experimenting with various LLM prompts to optimize my workflow! 🚀
