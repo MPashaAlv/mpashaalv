@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Pasha</h1>
-<h3 align="center">Information Technology Student | Aspiring Full-Stack & Mobile Developer</h3>
+<h3 align="center">Information Technology Student | Aspiring UI/UX Designer, Frontend & Mobile Developer</h3>
 
 <p align="center">
   I'm an Information Technology student at UIN Ar-Raniry Banda Aceh. I have a deep passion for cross-platform application development, UI/UX design, and exploring diverse operating system environments. 
@@ -58,7 +58,6 @@
 <p>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Antigravity_IDE-1E1E1E?style=for-the-badge&logoColor=white" alt="Antigravity IDE" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows 11" />
 </p>
